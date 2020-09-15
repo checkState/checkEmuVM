@@ -1,1 +1,1 @@
-# checkEmuVM
+ENABLED
